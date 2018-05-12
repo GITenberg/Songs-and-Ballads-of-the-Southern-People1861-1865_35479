@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37705
     wikipedia: http://en.wikipedia.org/wiki/Frank_Moore_%28journalist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35479#Songs-and-Ballads-of-the-Southern-People1861-1865
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2011-03-04'
 gutenberg_type: Text
